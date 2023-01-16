@@ -14,3 +14,5 @@ https://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/tracks-v1a1/mono.m3u8
 https://redlabmcdn.s.llnwi.net/nv02/bs13hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",Egg Network
 http://edge.linknetott.swiftserve.com/channelgroup5/cg523production/ch319/03.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",NHK Premium
+https://liveaneviadev.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium-mp4a_98800_eng=3-2538134610113995.mp4
