@@ -4,7 +4,7 @@
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/640px-Animax.svg.png" group-title="Channel TV Jepang",Animax Japan
 https://redlabmcdn.s.llnwi.net/nv02/bs14hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Nippon_Television_Holdings_logo.svg" group-title="Channel TV Jepang",Tv Nihon
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nippon_Television_Holdings_logo.svg/1200px-Nippon_Television_Holdings_logo.svg.png" group-title="Channel TV Jepang",Tv Nihon
 https://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="Channel TV Jepang",Tv Tokyo
 https://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/tracks-v1a1/mono.m3u8
