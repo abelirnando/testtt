@@ -15,8 +15,8 @@ https://redlabmcdn.s.llnwi.net/nv02/bs13hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",Egg Network
 http://edge.linknetott.swiftserve.com/channelgroup5/cg523production/ch319/03.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",NHK Premium
-https://liveaneviadev.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium-mp4a_98800_eng=3-2538134610113995.mp4
+https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",Sony Gem
 http://210.210.155.35/session/ba219004-95b5-11ed-9afe-a712a53e90ba/uq2663/h/h19/02.m3u8
-#EXTINF:-1 group-title="Channel TV Premium",NHK World Premium
+#EXTINF:-1 group-title="Channel TV Premium",NHK World 
 https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
