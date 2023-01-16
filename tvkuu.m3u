@@ -22,3 +22,5 @@ http://210.210.155.35/session/ba219004-95b5-11ed-9afe-a712a53e90ba/uq2663/h/h19/
 https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 #EXTINF:-1 group-title="Channel TV Jepang",Fuji TV
 https://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Channel TV Jepang",BS12
+https://redlabmcdn.s.llnwi.net/nv02/bs08hd/tracks-v1a1/mono.m3u8
