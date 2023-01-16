@@ -20,3 +20,5 @@ https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 http://210.210.155.35/session/ba219004-95b5-11ed-9afe-a712a53e90ba/uq2663/h/h19/02.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",NHK World 
 https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",Fuji TV
+https://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/tracks-v1a1/mono.m3u8
