@@ -2,3 +2,9 @@
 
 #EXTINF:-1 group-title="Channel TV Premium",Ani Plus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",Animax Japan
+https://redlabmcdn.s.llnwi.net/nv02/bs14hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Channel TV Premium",Tv Nihon
+https://do3-sv1.gdplayer.to/playlist/blNqNG9GVHdXb2NiN2EraG8yVXNFdDMvOHlZVUphWGpvZUJheWhvVmNtRndPYWdzY2xZczFvTGtLZkJrd2tjU1NLR0g4NDZ3YzlZSWtWU1JuMDdZQXc9PQ,,/master.m3u8?token=YWcvM3dRZ1RGdDFGTm1jcTlCNEZQVnZFN0VhaE1wSS9yZGQ2VG5iSGsxRXJtMW5mZExtRkJscUVrOEQ0N3FlaXBiQUhmWnZrRlZwbVREL1VZbUgvU1E9PQ,,
+#EXTINF:-1 group-title="Channel TV Premium",Tv Tokyo
+https://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/tracks-v1a1/mono.m3u8
