@@ -18,6 +18,10 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg523production/ch319/03.m3u
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="Channel TV Jepang",Sony Gem
 http://210.210.155.35/session/ba219004-95b5-11ed-9afe-a712a53e90ba/uq2663/h/h19/02.m3u8
+#EXTINF:-1 tvg-id="TokyoMX2.jp" status="timeout" group-title="Channel TV Jepang",Tokyo MX2 (720p)
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX1.jp" status="error" group-title="Channel TV Jepang",Tokyo MX1
+https://neetball.net/live/test2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png" group-title="Channel TV Jepang",NHK World 
 https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="Channel TV Jepang",Fuji TV
