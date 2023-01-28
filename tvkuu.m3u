@@ -10,12 +10,16 @@ https://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/tracks-v1a1/mono.m3u8
 https://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png" group-title="Channel TV Jepang",Tv Asahi
 https://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" group-title="Channel TV Jepang",NHK Premium
+https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="Channel TV Jepang",Fuji TV
+https://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Channel TV Jepang",Disney Plus Japan
 https://redlabmcdn.s.llnwi.net/nv02/bs13hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="Channel TV Jepang",Egg Network
 http://edge.linknetott.swiftserve.com/channelgroup5/cg523production/ch319/03.m3u8
-#EXTINF:-1 tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" group-title="Channel TV Jepang",NHK Premium
-https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
+#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/TBS-TV.jpg" group-title="Channel TV Jepang",TBS
+https://tbs2.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="Channel TV Jepang",Sony Gem
 http://210.210.155.35/session/ba219004-95b5-11ed-9afe-a712a53e90ba/uq2663/h/h19/02.m3u8
 #EXTINF:-1 tvg-id="TokyoMX2.jp" status="timeout" group-title="Channel TV Jepang",Tokyo MX2 (720p)
@@ -24,12 +28,9 @@ https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 https://neetball.net/live/test2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png" group-title="Channel TV Jepang",NHK World 
 https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="Channel TV Jepang",Fuji TV
-https://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.twellv.co.jp/assets/common/img/ogp.jpg" group-title="Channel TV Jepang",BS12
 https://redlabmcdn.s.llnwi.net/nv02/bs08hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/TBS-TV.jpg" group-title="Channel TV Jepang",TBS
-https://tbs2.mov3.co/hls/tbs.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Channel TV Jepang",Hokkaido Tv Channel
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674931882/ei/ShrVY4KgLqKdmgfTmpXQBw/ip/140.213.1.16/id/-MsvEsrdPY8.3/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIVBiVtV69Omfl1PrGLEtbwjkKcAEXxIw1smX8C84Bq_AiEA44yGQHWEFzUWB2BqSP_XAQGsNvKm77eTF6PRsUiHFEA%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Channel TV Jepang",Hiroshima Tv Channel
