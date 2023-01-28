@@ -30,20 +30,19 @@ https://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/tracks-v1a1/mono.m3u8
 https://redlabmcdn.s.llnwi.net/nv02/bs08hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/TBS-TV.jpg" group-title="Channel TV Jepang",TBS
 https://tbs2.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Channel TV Jepang",Hokkaido Tv Channel
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674931882/ei/ShrVY4KgLqKdmgfTmpXQBw/ip/140.213.1.16/id/-MsvEsrdPY8.3/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIVBiVtV69Omfl1PrGLEtbwjkKcAEXxIw1smX8C84Bq_AiEA44yGQHWEFzUWB2BqSP_XAQGsNvKm77eTF6PRsUiHFEA%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Channel TV Jepang",Hiroshima Tv Channel
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674933023/ei/vx7VY73hF4vCz7sPu_GMuAs/ip/140.213.1.16/id/sGpP6DpTDPM.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQ6UxYKSem7TpR4So4v_UexHiY7LygPPHCOdLWK9xB4oCIQDltQ8t5yIZOVWyvj4qsqdjDZNY9klHRHeE606JC0sdEQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Film TV",Thrill 3
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
-
 #EXTINF:-1 group-title="Channel TV Premium",Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
-
 #EXTINF:-1 group-title="Channel TV Premium",Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/01.m3u8
-
 #EXTINF:-1 group-title="Channel TV Premium",Celestial Movie
 http://210.210.155.35/dr9445/h/h14/01.m3u8
-
 #EXTINF:-1 group-title="Channel TV Premium",KIX
 http://210.210.155.35/dr9445/h/h07/01.m3u8
-
 #EXTINF:-1 group-title="Channel TV Premium",TVN
 http://210.210.155.35/dr9445/h/h20/01.m3u8
