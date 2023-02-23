@@ -48,6 +48,8 @@ http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Channel TV Jepang",NHK G
 https://nhk3.mov3.co/hls/nhk.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Channel Premium",K Plus
+http://210.210.155.35/session/a159000c-b388-11ed-b03c-b82a72d63267/uq2663/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Film TV",Thrill 3
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",Blue Ant Extreme
