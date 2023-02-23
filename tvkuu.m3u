@@ -50,10 +50,13 @@ https://nhk3.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Channel Premium",K Plus
 http://210.210.155.35/session/a159000c-b388-11ed-b03c-b82a72d63267/uq2663/h/h08/01.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Film TV",Thrill 3
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+
 #EXTINF:-1 group-title="Channel TV Premium",Blue Ant Extreme
 http://210.210.155.35/session/72fd3a98-9f06-11ed-8b6a-b82a72d63267/dr9445/h/h15/01.m3u8
+
 #EXTINF:-1 group-title="Channel TV Premium",Blue Ant Entertainment
 http://210.210.155.35/session/72fd3a98-9f06-11ed-8b6a-b82a72d63267/dr9445/h/h16/01.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",KIX
