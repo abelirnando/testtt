@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png" group-title="Channel TV Premium",Ani Plus
-http://210.210.155.35/dr9445/h/h02/01.m3u8
+http://210.210.155.35/session/e08c4f70-9550-11eb-8dbb-95a095347988/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/640px-Animax.svg.png" group-title="Channel TV Jepang",Animax Japan
 https://redlabmcdn.s.llnwi.net/nv02/bs14hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nippon_Television_Holdings_logo.svg/1200px-Nippon_Television_Holdings_logo.svg.png" group-title="Channel TV Jepang",Tv Nihon
@@ -65,9 +65,30 @@ http://210.210.155.35/session/72fd3a98-9f06-11ed-8b6a-b82a72d63267/dr9445/h/h15/
 
 #EXTINF:-1 group-title="Channel TV Premium",Blue Ant Entertainment
 http://210.210.155.35/session/72fd3a98-9f06-11ed-8b6a-b82a72d63267/dr9445/h/h16/01.m3u8
+
 #EXTINF:-1 group-title="Channel TV Premium",KIX
-http://210.210.155.35/session/72fd3a98-9f06-11ed-8b6a-b82a72d63267/dr9445/h/h07/01.m3u8
+http://210.210.155.35:80/dr9445/h/h07/index.m3u8
+
 #EXTINF:-1 group-title="Channel TV Premium",TVN
-http://210.210.155.35/session/72fd3a98-9f06-11ed-8b6a-b82a72d63267/dr9445/h/h20/01.m3u8
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+
 #EXTINF:-1 group-title="Channel TV Premium",Celestial Movie
-http://210.210.155.35/session/26eae5a6-9f06-11ed-8b6a-b82a72d63267/dr9445/h/h14/01.m3u8
+http://210.210.155.35:80/dr9445/h/h14/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",TVN Movies
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Discovery Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Nat Geographic Channel
+http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",K+
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",WOWOW Cinema
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="Channel TV Premium",WOWOW Prime
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
